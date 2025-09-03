@@ -50,8 +50,8 @@
   - CGPA: **8.17**  
   - **Pre-University (PCMB)**, S R PU College, Hebri (2018 – 2020)  
     - Percentage: **85.66%**  
-    - **SSLC**, Poornaprajna High School, Chikkamagaluru (2017 – 2018)  
-      - Percentage: **88.80%**  
+  - **SSLC**, Poornaprajna High School, Chikkamagaluru (2017 – 2018)  
+    - Percentage: **88.80%**  
 
       ---
 
@@ -62,8 +62,8 @@
 
       ---
 
-      ## 🌐 Connect With Me  
-
-      📧 **Email**: kncharan997@gmail.com  
-      💼 [LinkedIn](https://www.linkedin.com/in/charan-k-n)  
-      💻 [GitHub](https://github.com/kncharan997)
+🌐 Connect With Me
+📧 Email: kncharan997@gmail.com
+💼 LinkedIn
+💻 GitHub
+🌐 Portfolio: https://kncharan997.github.io/Porfolio
