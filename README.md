@@ -47,15 +47,17 @@
 ## 🎓 Education  
 
 - **B.E. in Computer Science & Engineering**, CMR Institute of Technology, Bengaluru (2020 – 2024)  
-  - CGPA: **8.17**  
-  - **Pre-University (PCMB)**, S R PU College, Hebri (2018 – 2020)  
-    - Percentage: **85.66%**  
-  - **SSLC**, Poornaprajna High School, Chikkamagaluru (2017 – 2018)  
-    - Percentage: **88.80%**  
+- CGPA: **8.17**  
+
+- **Pre-University (PCMB)**, S R PU College, Hebri (2018 – 2020)  
+- Percentage: **85.66%**  
+
+- **SSLC**, Poornaprajna High School, Chikkamagaluru (2017 – 2018)  
+- Percentage: **88.80%**  
 
       ---
 
-      ## 📊 GitHub Stats  
+  ## 📊 GitHub Stats  
 
       ![Charan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kncharan997&show_icons=true&theme=radical)  
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kncharan997&layout=compact&theme=radical)  
