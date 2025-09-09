@@ -59,8 +59,9 @@
 
       ## 📊 GitHub Stats  
 
-      ![Charan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kncharan997&show_icons=true&theme=radical)  
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kncharan997&layout=compact&theme=radical)  
+      ![Charan’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kncharan997&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kncharan997&layout=compact&theme=radical)
 
       ---
 
